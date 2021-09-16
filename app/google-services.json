@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "280786383557",
+    "project_id": "fly-bee-d4a86",
+    "storage_bucket": "fly-bee-d4a86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280786383557:android:a046f5d88c1fe6a93736ac",
+        "android_client_info": {
+          "package_name": "com.hytham.flybeecustomer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280786383557-cfanq4nfu96f50bjaa6uj2dpdb0ga4qo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6BJTUb6myOZYzV8D5Id9iE8ccv9CBqow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280786383557-cfanq4nfu96f50bjaa6uj2dpdb0ga4qo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
