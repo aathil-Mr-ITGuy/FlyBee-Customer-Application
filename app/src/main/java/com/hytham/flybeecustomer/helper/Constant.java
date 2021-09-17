@@ -6,11 +6,11 @@ public class Constant {
     //MODIFICATION PART
     public static final String MAINBASEUrl = "http://127.0.0.1/ecart/"; //Admin panel url
 
-    //If you have eCart Website then place here website URL otherwise admin panel url
+    //If you have Fly Bee Website then place here website URL otherwise admin panel url
     public static final String WebsiteUrl = "http://127.0.0.1/ecart/";
 
     //set your jwt secret key here...key must same in PHP and Android
-    public static final String JWT_KEY = "hythamlabs";
+    public static final String JWT_KEY = "flybee_customer";
 
     public static final int GRIDCOLUMN = 3; //Category View Number Of Grid Per Line
 

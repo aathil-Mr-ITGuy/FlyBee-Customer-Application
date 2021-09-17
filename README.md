@@ -1,3 +1,10 @@
-# eCartWrteam eCart Customer App
+# This Fly Bee Customer Application
 
-https://codecanyon.net/item/city-ecommerce-app/22015911
+# Developed by Hytham Labs (PVT) Ltd.
+
+#Developed by
+   # Aathil Ahamed
+   # Mohamed Nazeem
+   # Thabith Ahamed
+   # Umair Ahamed
+   # Abdul Muees
